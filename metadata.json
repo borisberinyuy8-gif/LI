@@ -1,0 +1,8 @@
+{
+  "name": "Freedom from Ignorance - Digital Library",
+  "description": "Premium online book library specializing in Psychology, Spirituality, Human Formation, and Natural Science with direct WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
